@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates a common error: division by zero. The `buggyProc` procedure attempts to divide `$b` by `$a`. If `$a` is 0, this will result in a runtime error.  The solution demonstrates how to prevent this error using a simple check.
